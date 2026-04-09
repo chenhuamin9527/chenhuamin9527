@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi everyone :wave:
 
-<!--
-**chenhuamin9527/chenhuamin9527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate backend developer from China
 
-Here are some ideas to get you started:
+## Quick overview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### GitHub stats 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=chenhuamin9527&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
+
+## My skills 📜
+
+- Java
+- Spring
+- MySQL
+- Docker
+
+## What I'm currently learning 📚
+
+- 🏗️ **Architectural Patterns:** Implementing **Strategy & Template Method** to eliminate nested `if-else` in complex business logic.
+- ☕ **Java Deep Dive:** Exploring **Virtual Threads** to handle high-concurrency without the overhead of OS threads.
+- ⚡ **Redis Mastery:** Researching **Bloom Filters** and **Redis Cluster** resharding for large-scale data systems.
+- 🤖 **AI-Driven Dev:** Building a custom **Markdown-to-Resume** renderer using Java & Spring (integrating AI for content optimization).
+
+</details>
+
